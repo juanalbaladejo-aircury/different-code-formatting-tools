@@ -1,0 +1,8 @@
+# Indentation settings
+[*]
+indent_style = space
+indent_size = 2
+
+# JavaScript specific settings
+[*.js]
+indent_size = 2
